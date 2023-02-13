@@ -1,7 +1,7 @@
 package usecase
 
 import (
-	"GoStatusParcer/config"
+	"GoHFLabsParcer/config"
 	"net/http"
 
 	"github.com/sirupsen/logrus"

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"GoStatusParcer/internal/app"
+	"GoHFLabsParcer/internal/app"
 )
 
 func main() {

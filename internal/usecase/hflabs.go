@@ -1,7 +1,7 @@
 package usecase
 
 import (
-	"GoStatusParcer/internal/entity"
+	"GoHFLabsParcer/internal/entity"
 	"encoding/json"
 	"io"
 	"net/http"
