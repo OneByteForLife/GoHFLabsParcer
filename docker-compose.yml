@@ -8,7 +8,7 @@ networks:
 services:
   status-parcer:
     build: .
-    container_name: ads-service.in.net.ex
+    container_name: status-parcer.in.net.ex
     volumes:
       - ./config/config.json:/config.json:ro # Only read
     networks:
